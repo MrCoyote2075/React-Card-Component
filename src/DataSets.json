@@ -1,0 +1,105 @@
+[
+    {
+        "profileImage": "profile1.jpg",
+        "leetcodeId": "Coyote2075",
+        "name": "Dhanush N",
+        "city": "Hosur",
+        "skill": "Software Developer",
+        "problems": 147,
+        "languages": [
+            "Python",
+            "MySQL",
+            "C",
+            "Java",
+            "C++",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "NodeJS",
+            "React"
+        ]
+    },
+    {
+        "profileImage": "profile2.jpg",
+        "leetcodeId": "praveen_c2212",
+        "name": "Praveen C",
+        "city": "Dindigul",
+        "skill": "Full Stack Developer",
+        "problems": 116,
+        "languages": [
+            "C",
+            "Java",
+            "C++",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Python"
+        ]
+    },
+    {
+        "profileImage": "profile3.jpg",
+        "leetcodeId": "Immortal-Beast",
+        "name": "Monish S",
+        "city": "Cuddalore",
+        "skill": "Backend Developer",
+        "problems": 107,
+        "languages": [
+            "C",
+            "Java",
+            "MySQL",
+            "C++",
+            "Python"
+        ]
+    },
+    {
+        "profileImage": "profile5.jpg",
+        "leetcodeId": "Blackrose143",
+        "name": "Ragunath A",
+        "city": "Erode",
+        "skill": "Frontend Developer",
+        "problems": 87,
+        "languages": [
+            "C",
+            "Python",
+            "Java",
+            "C++"
+        ]
+    },
+    {
+        "profileImage": "profile9.jpg",
+        "leetcodeId": "......",
+        "name": "Angaline Sophia",
+        "city": "Sivakasi",
+        "skill": "Full Stack Developer",
+        "problems": 260,
+        "languages": [
+            "C",
+            "Java",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "C++",
+            "Figma",
+            "MongoDB"
+        ]
+    },
+    {
+        "profileImage": "profile7.jpg",
+        "leetcodeId": "Rishaali_147",
+        "name": "Rishaali Rajagopal",
+        "city": "Hosur",
+        "skill": "MERN Stack Developer",
+        "problems": 34,
+        "languages": [
+            "C",
+            "Java",
+            "JavaScript",
+            "MongoDB",
+            "Express",
+            "React",
+            "NodeJS",
+            "C++"
+        ]
+    }
+]
